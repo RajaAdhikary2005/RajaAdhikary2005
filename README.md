@@ -1,7 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 <h1 align="center">  Hi 👋, I'm Raja Adhikary </h1>
-<h3 align="center">BCA || Coding Enthusiast || Aspiring Software Developer || Tech Explorer ||| Mern Stack Developer</h3>
+<h3 align="center">BCA || Coding Enthusiast || Aspiring Software Developer || Tech Explorer || Mern-Stack Developer </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejMwdnJoa2NrZWZmeGNjd2YxZGxkcTlyN3ExbHprYTF3ZGxidzdoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
